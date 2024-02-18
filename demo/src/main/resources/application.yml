@@ -1,0 +1,2 @@
+app:
+  user.name: ${cmd.user.name}
